@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "@django/root-config": "//localhost:9000/django-root-config.js",
+    "@django/navbar": "//localhost:4201/main.js",
+    "@django/footer": "//localhost:4202/main.js"
+  }
+}
